@@ -1,10 +1,10 @@
 package git_project;
 
-public class git {
+public class git2 {
 
+	
 	public static void main(String[] args) {
-
-		System.out.println("git hello1111");
+		
+		System.out.println("dddd");
 	}
-
 }
