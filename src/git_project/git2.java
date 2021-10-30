@@ -14,7 +14,19 @@ public class git2 {
 		System.out.println("1111111111111111111111");
 		System.out.println("1111111111111111111111");
 		System.out.println("1111111111111111111111");
+		
 		System.out.println("1111111111111111111111");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
+		System.out.println("a");
 	}
 	
 }
