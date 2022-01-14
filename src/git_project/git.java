@@ -10,10 +10,6 @@ public class git {
 		System.out.println("git hello222");
 		
 		System.out.println("git hello1111");
-		System.out.println("git hello1111");
-		System.out.println("git hello1111");
-		System.out.println("git hello2222");
-		System.out.println("git hello2222");
 	}
 
 }
