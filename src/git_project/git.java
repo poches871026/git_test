@@ -54,7 +54,28 @@ public class git {
 		System.out.println("������������������������������������������");System.out.println("������������������������������������������");
 		System.out.println("������������������������������������������");System.out.println("������������������������������������������");
 		System.out.println("������������������������������������������");
-		
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+
 		System.out.println("git helloccccc");
 		System.out.println("git helloddddd");System.out.println("git helloaaaaaaa");
 		System.out.println("git hellobbbbb");
