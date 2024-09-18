@@ -39,6 +39,38 @@ public class git2 {
 
 		System.out.println("b");
 		System.out.println("c");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("b");
+		System.out.println("c");
+		System.out.println("b");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("c");
+		System.out.println("b");
+		System.out.println("c");
+
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		System.out.println("eeeeeeeeeeeeeeeeeeeeeeeeeeee");
+		
 		
 	}
 	
