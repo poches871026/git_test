@@ -33,18 +33,18 @@ public class git {
 		System.out.println("git hellobbbbb");
 		System.out.println("git helloccccc");
 		
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
-		System.out.println("けけけけけけけけけけけけけけけけけけけけけ");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
+		System.out.println("鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申鐃緒申");
 		
 		System.out.println("git helloccccc");
 		System.out.println("git helloddddd");System.out.println("git helloaaaaaaa");
@@ -85,6 +85,7 @@ public class git {
 
 		System.out.println("git helloddddd");
 		System.out.println("git helloaaaaaaa");
+		System.out.println("git helloddddd");System.out.println("git helloddddd");System.out.println("git helloddddd");System.out.println("git helloddddd");
 		System.out.println("git hellobbbbb");
 		System.out.println("git helloccccc");
 
@@ -94,3 +95,4 @@ public class git {
 	}
 
 }
+
